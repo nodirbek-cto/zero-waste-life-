@@ -6,12 +6,12 @@ import { getCurrentRole, getVerifiedUser } from "@/lib/services/auth"
 
 const intl = createMiddleware({
   locales: ["en", "uz", "ru"],
-  defaultLocale: "en",
+  defaultLocale: "uz",
   localePrefix: "as-needed",
 })
 
 const locales = ["en", "uz", "ru"] as const
-const defaultLocale = "en"
+const defaultLocale = "uz"
 
 function getRouteContext(pathname: string) {
   const [, maybeLocale, ...rest] = pathname.split("/")

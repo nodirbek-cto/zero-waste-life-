@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useLocale } from 'next-intl';
-import { Leaf, Instagram, Twitter, Youtube, Github, Mail, MapPin } from 'lucide-react';
+import { Leaf, Send, Instagram, Twitter, Youtube, Github, Mail, MapPin } from 'lucide-react';
 
 const footerLinks = {
   product: [
@@ -31,7 +31,7 @@ const footerLinks = {
 };
 
 const socialLinks = [
-  { icon: Instagram, href: '#', label: 'Instagram' },
+  { icon: Send, href: 'https://t.me/zerowastelifeuz', label: 'Telegram' },
   { icon: Twitter, href: '#', label: 'Twitter' },
   { icon: Youtube, href: '#', label: 'YouTube' },
   { icon: Github, href: '#', label: 'GitHub' },
@@ -60,11 +60,11 @@ export function Footer() {
             <div className="space-y-2 text-sm text-gray-400">
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>hello@zerowaste.life</span>
+                <span>zwl.zerowastelife@gmail.com</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
-                <span>Global, Earth</span>
+                <span><a href="https://www.google.com/maps/@40.3752848,71.8031423,16z?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D" target="_blank">Farg'ona, Uzbekistan</a></span>
               </div>
             </div>
           </div>
