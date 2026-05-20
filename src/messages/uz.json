@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Zero Waste Life - Eko O'yinlashtirish Platformasi",
+    "description": "Sayobni tozalash harakatiga qo'shiling. Qayta ishlash va ekologik harakatlar uchun mukofotlar oling."
+  },
+  "navigation": {
+    "home": "Bosh sahifa",
+    "howItWorks": "Qanday ishlaydi",
+    "aboutUs": "Biz haqimizda",
+    "signIn": "Kirish",
+    "signUp": "Ro'yxatdan o'tish",
+    "dashboard": "Boshqaruv paneli",
+    "scanner": "Skaner",
+    "map": "Xarita",
+    "shop": "Do'kon",
+    "report": "Hisobot",
+    "profile": "Profil",
+    "logout": "Chiqish"
+  },
+  "hero": {
+    "title": "Sayobni tozalang,",
+    "titleHighlight": "Mukofot oling",
+    "subtitle": "Farq yaratayotgan minglab eko-jangchilar qatoriga qo'shiling. Axlatni skanerlang, ball to'plang, mukofotlarni oling.",
+    "ctaPrimary": "Sayohatingizni boshlang",
+    "ctaSecondary": "Ko'proq bilish",
+    "stats": {
+      "users": "Faol foydalanuvchilar",
+      "trash": "Qayta ishlangan narsalar",
+      "co2": "Tejalgan CO₂ (kg)"
+    }
+  },
+  "features": {
+    "title": "Bu qanday ishlaydi",
+    "subtitle": "Ta'sir ko'rsatish uchun uchta oddiy qadam",
+    "scan": {
+      "title": "Axlatni skanerlang",
+      "description": "AI skanerimizdan foydalanib axlat suratini oling"
+    },
+    "earn": {
+      "title": "Ball to'plang",
+      "description": "Har bir tasdiqlangan eko-harakat uchun mukofot oling"
+    },
+    "redeem": {
+      "title": "Mukofotlarni oling",
+      "description": "Ballarni ekologik mahsulotlar va chegirmalar uchun almashtiring"
+    }
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "subtitle": "Bizning vazifamiz - dunyoni o'yinlashtirish orqali toza qilish",
+    "mission": {
+      "title": "Bizning vazifamiz",
+      "description": "Biz kichik harakatlar millionlab odamlar tomonidan ko'paytirilganda, dunyo o'zgarishi mumkinligiga ishonamiz."
+    },
+    "vision": {
+      "title": "Bizning ko'rinishimiz",
+      "description": "Dunyo, unda har bir axlat qayta ishlanadi va har bir odam eko-jangchi bo'ladi."
+    },
+    "values": {
+      "title": "Bizning qadriyatlarimiz",
+      "description": "Shaffoflik, hamjamiyat va o'lchab bo'ladigan ta'sir — biz qurayotgan hamma narsaning asosi."
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Xush kelibsiz",
+      "subtitle": "Eko sayohatingizni davom ettiring",
+      "email": "Email",
+      "password": "Parol",
+      "submit": "Kirish",
+      "noAccount": "Hisobingiz yo'qmi?",
+      "signUpLink": "Ro'yxatdan o'tish"
+    },
+    "signUp": {
+      "title": "Harakatga qo'shiling",
+      "subtitle": "Bugun farq yaratishni boshlang",
+      "name": "To'liq ism",
+      "email": "Email",
+      "password": "Parol",
+      "submit": "Hisob yaratish",
+      "hasAccount": "Hisobingiz bormi?",
+      "signInLink": "Kirish"
+    }
+  },
+  "scanner": {
+    "title": "Axlat skaneri",
+    "subtitle": "Axlatni aniqlash va tasniflash uchun surat oling",
+    "upload": "Surat yuklang yoki oling",
+    "analyzing": "Tahlil qilinmoqda...",
+    "result": {
+      "title": "Tahlil natijasi",
+      "type": "Axlat turi",
+      "recyclable": "Qayta ishlanishi mumkin",
+      "points": "Olingan ballar",
+      "instructions": "Utilizatsiya ko'rsatmalar"
+    }
+  },
+  "map": {
+    "title": "Eko xarita",
+    "subtitle": "Qayta ishlash markazlari va xabar qilingan axlat joylarini toping",
+    "filters": {
+      "all": "Hammasi",
+      "trash": "Axlat xabarlar",
+      "centers": "Qayta ishlash markazlari",
+      "cleaned": "Tozalangan hududlar"
+    },
+    "report": "Axlat xabar qilish"
+  },
+  "dashboard": {
+    "title": "Boshqaruv paneli",
+    "subtitle": "O'z ta'siringiz va yutuqlaringizni kuzatib boring",
+    "stats": {
+      "points": "Jami ballar",
+      "uploads": "Yuklanmalar",
+      "recycled": "Qayta ishlangan narsalar",
+      "co2": "Tejalgan CO₂"
+    },
+    "recentActivity": "So'nggi faoliyat",
+    "achievements": "Yutuqlar"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "title": "Zero Waste Life - Eco Gamification Platform",
+    "description": "Join the movement to clean our planet. Earn rewards for recycling and eco-friendly actions."
+  },
+  "navigation": {
+    "home": "Home",
+    "howItWorks": "How it works",
+    "aboutUs": "About us",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "dashboard": "Dashboard",
+    "scanner": "Scanner",
+    "map": "Map",
+    "shop": "Shop",
+    "report": "Report",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Clean the Planet,",
+    "titleHighlight": "Earn Rewards",
+    "subtitle": "Join thousands of eco-warriors making a difference. Scan trash, earn points, redeem rewards.",
+    "ctaPrimary": "Start Your Journey",
+    "ctaSecondary": "Learn More",
+    "stats": {
+      "users": "Active Users",
+      "trash": "Items Recycled",
+      "co2": "CO₂ Saved (kg)"
+    }
+  },
+  "features": {
+    "title": "How It Works",
+    "subtitle": "Three simple steps to make an impact",
+    "scan": {
+      "title": "Scan Trash",
+      "description": "Take a photo of trash using our AI-powered scanner"
+    },
+    "earn": {
+      "title": "Earn Points",
+      "description": "Get rewarded for every verified eco-action"
+    },
+    "redeem": {
+      "title": "Redeem Rewards",
+      "description": "Exchange points for eco-friendly products and discounts"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Our mission is to make the world cleaner through gamification",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe that small actions, when multiplied by millions, can transform the world."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "A world where every piece of trash is properly recycled and every person is an eco-warrior."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Transparency, community and measurable impact guide everything we build."
+    }
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome Back",
+      "subtitle": "Continue your eco journey",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign up"
+    },
+    "signUp": {
+      "title": "Join the Movement",
+      "subtitle": "Start making a difference today",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Create Account",
+      "hasAccount": "Already have an account?",
+      "signInLink": "Sign in"
+    }
+  },
+  "scanner": {
+    "title": "Trash Scanner",
+    "subtitle": "Take a photo to identify and classify waste",
+    "upload": "Upload or take a photo",
+    "analyzing": "Analyzing...",
+    "result": {
+      "title": "Analysis Result",
+      "type": "Waste Type",
+      "recyclable": "Recyclable",
+      "points": "Points Earned",
+      "instructions": "Disposal Instructions"
+    }
+  },
+  "map": {
+    "title": "Eco Map",
+    "subtitle": "Find recycling centers and reported trash locations",
+    "filters": {
+      "all": "All",
+      "trash": "Trash Reports",
+      "centers": "Recycling Centers",
+      "cleaned": "Cleaned Areas"
+    },
+    "report": "Report Trash"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Track your impact and achievements",
+    "stats": {
+      "points": "Total Points",
+      "uploads": "Uploads",
+      "recycled": "Items Recycled",
+      "co2": "CO₂ Saved"
+    },
+    "recentActivity": "Recent Activity",
+    "achievements": "Achievements"
+  }
+}
