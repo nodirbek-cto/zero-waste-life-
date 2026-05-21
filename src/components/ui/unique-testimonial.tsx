@@ -7,27 +7,27 @@ import { cn } from "@/lib/utils"
 const testimonials = [
   {
     id: 1,
-    quote: "This changed everything for me.",
-    author: "Sarah Chen",
-    role: "Designer at Figma",
+    quote: "One mind. Full architecture.",
+    author: "Nodirbek Kamoldinov",
+    role: "CTO • Systems Architect",
     avatar:
       "https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D$0",
   },
   {
     id: 2,
-    quote: "Simply brilliant. Nothing else compares.",
-    author: "Marcus Johnson",
-    role: "Engineer at Vercel",
+    quote: "From vision to reality — led independently.",
+    author: "Sotvoldiyev Muhammadumar",
+    role: "CEO • Founder",
     avatar:
       "https://plus.unsplash.com/premium_photo-1671656349218-5218444643d8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D$0",
   },
   {
     id: 3,
-    quote: "The attention to detail is unmatched.",
-    author: "Elena Rodriguez",
-    role: "Founder at Craft",
+    quote: "",
+    author: "Soon",
+    role: "Soon",
     avatar:
-      "https://images.unsplash.com/photo-1607746882042-944635dfe10e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D$0",
+      "",
   },
 ]
 
