@@ -11,7 +11,7 @@ const testimonials = [
     author: "Nodirbek Kamoldinov",
     role: "CTO • Systems Architect",
     avatar:
-      "https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D$0",
+      "https://i.postimg.cc/dVzTR1qR/31536000-1810707369446-WIg-RPbc-IUCwi-Zz-O1LJZDAiz-BDCL0TMVvv-OQPTa-E8f-Og-S9p-0io7t-HPHAs-WOEu1YQQN.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const testimonials = [
     author: "Sotvoldiyev Muhammadumar",
     role: "CEO • Founder",
     avatar:
-      "https://plus.unsplash.com/premium_photo-1671656349218-5218444643d8?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D$0",
+      "https://i.postimg.cc/NjrcXGC0/avatar-jpg.jpg",
   },
   {
     id: 3,
